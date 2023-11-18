@@ -1,5 +1,5 @@
 // Joypad events handler
-/*
+
 import emitter from './emitter';
 import joypad from './joypad';
 import loop from './loop';
@@ -142,4 +142,3 @@ const handleButtonEvent = (buttonName, buttonEvents) => {
 
 initEventListeners();
 export { listenToButtonEvents, listenToAxisMovements, handleButtonEvent }
-*/

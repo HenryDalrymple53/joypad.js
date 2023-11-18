@@ -1,5 +1,5 @@
 // Events emitter
-
+/*
 const emitter = {
     events: {},
     publish: function (event, data) {
@@ -25,3 +25,4 @@ const emitter = {
 };
 
 export default emitter;
+*/

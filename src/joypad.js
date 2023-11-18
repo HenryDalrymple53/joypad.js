@@ -1,5 +1,4 @@
 // Joypad library
-/*
 import emitter from './emitter';
 import { EVENTS, AXIS_MOVEMENT_THRESHOLD } from './constants';
 import { log, hasVibrationSupport } from './helpers';
@@ -58,4 +57,3 @@ const joypad = {
 };
 
 export default joypad;
-*/
